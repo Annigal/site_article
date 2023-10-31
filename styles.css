@@ -1,0 +1,53 @@
+.sidi {
+    margin: 100px;
+    text-align: center;
+}
+
+//html {
+background-image: linear-gradient(to left, #ff0000, #7fffd4);
+}
+
+.block_1 {
+    max-width: 40%;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px;
+    display: inline-block;
+}
+
+.block_2 {
+    max-width: 40%;
+    display: inline-block;
+    border: 1px blue solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.shrift-1 {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.size {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mar {
+    margin-left: 275px;
+    margin-right: 300px;
+    max-width: 900px;
+}
+
+.line {
+    float: left;
+}
+
+.img {
+    width: 500px;
+    margin-left: 200px;
+    margin-right: auto;
+}
